@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Noto+Sans+JP:wght@100..900&display=swap');
+
+
+
+#banner{
+    height: 210px;
+    width: 210px;
+    right: 10;
+    align-items: middle;
+    display: inline-block;
+}
+
+#fev{
+    background-color: black;
+}
+
+.bv{
+    position: absolute;
+    top: 75px;
+    left: 69%;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: rgb(178, 7, 7);
+    font-size: 55px;
+}
+
+body{
+    background-color: rgb(70, 68, 68);
+}
+
+#titutu{
+    position: relative;
+    top: 75px;
+    right: -300px;
+    font-family: "Bebas Neue", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    color: rgb(167, 143, 8);
+    font-size: 130px;
+}
