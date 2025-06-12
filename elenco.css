@@ -1,3 +1,6 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Noto+Sans+JP:wght@100..900&display=swap');
+
+
 #vin{
     position: absolute;
     top: 880px;
@@ -26,4 +29,75 @@
     position: absolute;
     top: 880px;
     left: 700px;
+}
+
+#vinn{
+    position: relative;
+    top: 980px;
+    right: 100px;
+    font-family: "Bebas Neue", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    color: rgb(255, 255, 255);
+    text-align: justify;
+    margin: 0 auto;
+    max-width: 600px;
+    font-size: 30px;
+}
+
+#paull{
+        position: relative;
+    top: 980px;
+    right: 250px;
+    font-family: "Bebas Neue", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    color: rgb(255, 255, 255);
+    text-align: justify;
+    margin: 0 auto;
+    max-width: 600px;
+    font-size: 30px;
+}
+
+#michellee{
+        position: relative;
+    top: 980px;
+    right: 400px;
+    font-family: "Bebas Neue", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    color: rgb(255, 255, 255);
+    text-align: justify;
+    margin: 0 auto;
+    max-width: 600px;
+    font-size: 30px;
+}
+
+#jordanaa{
+        position: relative;
+    top: 980px;
+    right: 550px;
+    font-family: "Bebas Neue", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    color: rgb(255, 255, 255);
+    text-align: justify;
+    margin: 0 auto;
+    max-width: 600px;
+    font-size: 30px;
+}
+
+
+#rickk{
+        position: relative;
+    top: 980px;
+    right: 700px;
+    font-family: "Bebas Neue", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    color: rgb(255, 255, 255);
+    text-align: justify;
+    margin: 0 auto;
+    max-width: 600px;
+    font-size: 30px;
 }
