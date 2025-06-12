@@ -32,8 +32,8 @@
 }
 
 #vinn{
-    position: relative;
-    top: 980px;
+    position: absolute;
+    top: 930px;
     right: 100px;
     font-family: "Bebas Neue", sans-serif;
     font-weight: 400;
@@ -46,8 +46,8 @@
 }
 
 #paull{
-        position: relative;
-    top: 980px;
+        position: absolute;
+    top: 930px;
     right: 250px;
     font-family: "Bebas Neue", sans-serif;
     font-weight: 400;
@@ -60,8 +60,8 @@
 }
 
 #michellee{
-        position: relative;
-    top: 980px;
+        position: absolute;
+    top: 930px;
     right: 400px;
     font-family: "Bebas Neue", sans-serif;
     font-weight: 400;
@@ -74,8 +74,8 @@
 }
 
 #jordanaa{
-        position: relative;
-    top: 980px;
+        position: absolute;
+    top: 930px;
     right: 550px;
     font-family: "Bebas Neue", sans-serif;
     font-weight: 400;
@@ -89,8 +89,8 @@
 
 
 #rickk{
-        position: relative;
-    top: 980px;
+        position: absolute;
+    top: 930px;
     right: 700px;
     font-family: "Bebas Neue", sans-serif;
     font-weight: 400;
