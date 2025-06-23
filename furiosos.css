@@ -56,4 +56,5 @@ body{
     position: absolute;
     top: 450px;
     right: 100px;
+    box-sizing: content-box;
 }
