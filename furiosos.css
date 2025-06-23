@@ -23,6 +23,11 @@
     font-size: 55px;
 }
 
+.menu_pai{
+    display: flex;
+    justify-content: center;
+}
+
 body{
     background-color: rgb(70, 68, 68);
 }
